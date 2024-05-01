@@ -1,0 +1,30 @@
+Maximum amplitude of amplitude spectrum: 
+0.008793
+0.008902
+0.013236
+0.009402
+Peak frequency (excluding 0 frequency component): 
+0.244141
+23.681641
+7.568359
+0.244141
+Mean of amplitude spectrum: 
+0.000435
+0.000734
+0.000951
+0.000422
+Mean in time domain: 
+-0.000009
+-0.000008
+-0.000008
+-0.000009
+Skewness in time domain: 
+0.129203
+-0.362953
+-0.136936
+-0.426934
+Kurtosis in time domain: 
+2.988918
+3.377194
+6.049942
+4.975076
